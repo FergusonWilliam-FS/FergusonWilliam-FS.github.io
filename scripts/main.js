@@ -7,3 +7,5 @@ while (answer <= 6 || answer >= 11) {
 
 alert("Correct!");
 
+
+
